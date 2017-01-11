@@ -1,5 +1,10 @@
 <?php
 
+/*
+Create By Hasan Basri
+2017-01-11
+*/
+
 class Matriks {
 
 	private $matriks = array();
